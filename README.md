@@ -7,7 +7,7 @@
 
  📲 Social Media
 
-- 📫 How to reach me: rustandres@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/andrustn/
 
  💾 Projects
 
