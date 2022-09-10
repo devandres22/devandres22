@@ -73,3 +73,10 @@
 * Tools | Git | GitHub (forking, pull requests) | NodeJS | Chrome Developer Tools | Website Deployment |  Visual Studio Code |
 
 * Data structures and algorithms | Recursion and call stack
+
+JavaScript  █████████████████░░░ なかなか  Pretty Good
+      HTML  ███████████░░░░░░░░░ まあまあ  Not Bad
+       CSS  █████████████░░░░░░░ そこそこ  Alright
+    Vue.js  ███████████████░░░░░ それなり  Good
+    Muscle  ██░░░░░░░░░░░░░░░░░░ よわよわ  Weak
+    Guitar  ███████████████████░ つよつよ  Strong
