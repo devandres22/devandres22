@@ -74,9 +74,10 @@
 
 * Data structures and algorithms | Recursion and call stack
 
-JavaScript  █████████████████░░░ なかなか  Pretty Good
-      HTML  ███████████░░░░░░░░░ まあまあ  Not Bad
-       CSS  █████████████░░░░░░░ そこそこ  Alright
-    Vue.js  ███████████████░░░░░ それなり  Good
-    Muscle  ██░░░░░░░░░░░░░░░░░░ よわよわ  Weak
-    Guitar  ███████████████████░ つよつよ  Strong
+
+# HTML        █████████████░░░░░░░  Pretty Good
+# Javascript  ███████████░░░░░░░░░  Good
+# CSS         █████████████░░░░░░░  Alright
+# React.js    ███████████████░░░░░  Good 
+# Typescript  ██░░░░░░░░░░░░░░░░░░  Beginner
+# Github      ███████████████████░  Strong
