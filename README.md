@@ -11,35 +11,22 @@
 
  💾 Projects
 
-- <a href="https://devandres.netlify.app/index.html" target="_blank" rel="noopener noreferrer" > 💻 Portfolio Website </a>   
+- <a href="https://devandres.netlify.app/index.html" target="_blank" rel="noopener noreferrer" > 💻 Basic HTML + CSS + JS First Portfolio Website </a>   
 
-- <a href="https://memorynotapp.herokuapp.com/" target="_blank" rel="noopener noreferrer" > 📝 Keep Your Memories Notes App </a>
+- <a href="https://css-nes-notes-markdown.vercel.app/" target="_blank" rel="noopener noreferrer" > 📝 Typescript Nes Notes App </a>
 
-- <a href="https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos" target="_blank" rel="noopener noreferrer" > 📸 Image Search Engineering </a>
-
-- <a href="https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos](https://devandres.netlify.app/culture%20blog/))" target="_blank" rel="noopener noreferrer" > Culture Blog 💻 </a>
-
-- <a href="https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos](https://devandres.netlify.app/guess%20my%20number/)" target="_blank" rel="noopener noreferrer" > Guess My Number App ? </a>
-
-- <a href="https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos](https://devandres.netlify.app/p%20game/)" target="_blank" rel="noopener noreferrer" > JS Game 🎲 </a>
-
-- <a href="https://rpg-tau.vercel.app/" target="_blank" rel="noopener noreferrer" > Password Generator 🔐 </a>
-
-- <a href="https://andrustn85.github.io/review-app/" target="_blank" rel="noopener noreferrer" > React Review App 📥 </a>
+- <a href="https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos" target="_blank" rel="noopener noreferrer" > JS 📸 Image Search Engineering </a>
 
 
-- <a href="https://andrustn85.github.io/react-calculator/" target="_blank" rel="noopener noreferrer" > React Calculator 🧮 </a>
-
-- <a href="https://andrustn85.github.io/unit-converter/" target="_blank" rel="noopener noreferrer" > Unit Converter 🧮 </a>
-
-- <a href="https://api-dashboard-iota.vercel.app/" target="_blank" rel="noopener noreferrer" > API Landscape Dashboard 🀧 </a>
+- <a href="https://rpg-tau.vercel.app/" target="_blank" rel="noopener noreferrer" > JS Password Generator 🔐 </a>
 
 
-- <a href="https://minimalism-life.vercel.app/" target="_blank" rel="noopener noreferrer" > Minimalism Life ⽣ </a>
+- <a href="https://api-dashboard-iota.vercel.app/" target="_blank" rel="noopener noreferrer" > JS API Landscape Dashboard 🀧 </a>
 
-- <a href="https://form-website.vercel.app/" target="_blank" rel="noopener noreferrer" > Form Website ⬜️ </a>
 
-- <a href="https://bbq-hero.vercel.app/" target="_blank" rel="noopener noreferrer" > BBQ Register Website 🔥 </a>
+- <a href="https://form-website.vercel.app/" target="_blank" rel="noopener noreferrer" > HTML + CSS + JS Form Website ⬜️ </a>
+
+- <a href="https://react-meme-generator-nine.vercel.app/" target="_blank" rel="noopener noreferrer" > React Meme Generator 🔥 </a>
 
 
 
