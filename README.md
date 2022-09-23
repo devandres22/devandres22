@@ -72,4 +72,4 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=devandres22.visitor-badge&left_text=MyPageVisitors)
 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=devandres22&color=55acb7&style=for-the-badge&logo=Github)
