@@ -11,7 +11,7 @@
 
  💾 Projects
 
-- <a href="https://devandres.netlify.app/index.html" target="_blank" rel="noopener noreferrer" > 💻 Basic HTML + CSS + JS First Portfolio Website </a>   
+- <a href="https://react-dev-app.netlify.app/" target="_blank" rel="noopener noreferrer" > 💻 React Card Portfolio </a>   
 
 - <a href="https://css-nes-notes-markdown.vercel.app/" target="_blank" rel="noopener noreferrer" > 📝 Typescript Nes Notes App </a>
 
