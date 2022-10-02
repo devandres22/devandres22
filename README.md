@@ -9,7 +9,11 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/andrustn/
 
- 💾 Projects
+ 💾 Some of my Projects ◎
+ 
+ - <a href="https://react-dev-app.netlify.app/" target="_blank" rel="noopener noreferrer" > React Portfolio 2.0 ⚛️ </a>  
+ 
+ ![gif demo](https://user-images.githubusercontent.com/77374408/193432717-617bc395-c0d4-48ef-bd58-86504597e084.gif)
 
 - <a href="https://react-dev-app.netlify.app/" target="_blank" rel="noopener noreferrer" > 💻 React Card Portfolio </a>   
 
