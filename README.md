@@ -42,7 +42,7 @@
  <h1> 💾 Some of my Projects ◎ </h1>
  
  
-  <a href="https://react-dev-app.netlify.app/" target="_blank" rel="noopener noreferrer" > React Portfolio 2.0 ⚛️ </a> 
+  <a href="https://react-portfolio22.netlify.app/" target="_blank" rel="noopener noreferrer" > React Portfolio 2.0 ⚛️ </a> 
  
  
  ![gif demo](https://user-images.githubusercontent.com/77374408/193432717-617bc395-c0d4-48ef-bd58-86504597e084.gif)
