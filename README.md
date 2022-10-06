@@ -24,7 +24,7 @@
 
 </div>
 
-<h1 align="center"> Skills and Work Tools: </h1>
+<h1 align="center"> Skills & Work Tools: </h1>
 
 <div align="center" > 
 
