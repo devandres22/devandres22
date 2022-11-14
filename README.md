@@ -50,22 +50,23 @@
  
 
 
- <a href="https://react-dev-app.netlify.app/" target="_blank" rel="noopener noreferrer" > 💻 React Card Portfolio </a>   
+ <a href="https://react-dev-app.netlify.app/" target="_blank" rel="noopener noreferrer" > React Card Portfolio 🪪 </a>   
 
-<a href="https://css-nes-notes-markdown.vercel.app/" target="_blank" rel="noopener noreferrer" > 📝 Typescript Nes Notes App </a>
+<a href="https://css-nes-notes-markdown.vercel.app/" target="_blank" rel="noopener noreferrer" > Typescript Nes Notes App 📝 </a>
 
- <a href="https://devandres.netlify.app/image%20search%20engineering/portfolio-itemdos" target="_blank" rel="noopener noreferrer" > JS 📸 Image Search Engineering </a>
+ <a href="https://image-search-engineering.netlify.app/" target="_blank" rel="noopener noreferrer" > JS Image Search Engineering 📸 </a>
 
 
  <a href="https://rpg-tau.vercel.app/" target="_blank" rel="noopener noreferrer" > JS Password Generator 🔐 </a>
 
 
- <a href="https://api-dashboard-iota.vercel.app/" target="_blank" rel="noopener noreferrer" > JS API Landscape Dashboard 🀧 </a>
+ <a href="https://api-dashboard-iota.vercel.app/" target="_blank" rel="noopener noreferrer" > JS API Landscape Dashboard 🌅 </a>
 
+<a href="https://shopping-list-up.netlify.app/" target="_blank" rel="noopener noreferrer" > Simple Shopping List App ✅ </a>
+ 
+ <a href="https://form-website.vercel.app/" target="_blank" rel="noopener noreferrer" > HTML + CSS + JS Form Website ✏📇 </a>
 
- <a href="https://form-website.vercel.app/" target="_blank" rel="noopener noreferrer" > HTML + CSS + JS Form Website ⬜️ </a>
-
- <a href="https://react-meme-generator-nine.vercel.app/" target="_blank" rel="noopener noreferrer" > React Meme Generator 🔥 </a>
+ <a href="https://react-meme-generator-nine.vercel.app/" target="_blank" rel="noopener noreferrer" > React Meme Generator 😆 </a>
 
 </div>
 
