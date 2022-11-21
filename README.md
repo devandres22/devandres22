@@ -84,16 +84,6 @@
  
    <a href="https://scrimba.com/certificate/uWKx6Gt6/gfrontend" > Scrimba Frontend Developer Career Path: ( 80 Hours Program ) </a>
 
-# Markdown    ██████████████████░░  Strong
-# HTML        ██████████████████░░  Strong
-# Github      ██████████████████░░  Strong
-# CSS         ███████████████░░░░░  Advanced
-# Javascript  █████████████░░░░░░░  Good
-# ReactJS     █████████████░░░░░░░  Good 
-# NodeJS      █████████░░░░░░░░░░░  Not Bad
-# Typescript  ██░░░░░░░░░░░░░░░░░░  Beginner
-# Figma       ██░░░░░░░░░░░░░░░░░░  Beginner
-
 
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=devandres22&color=55acb7&style=for-the-badge&logo=Github)
 
